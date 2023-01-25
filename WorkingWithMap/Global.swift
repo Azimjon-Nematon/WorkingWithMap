@@ -21,31 +21,31 @@ class Global {
         "Type_Text": "Main"
       },
       {
-        "Title": "",
+        "Title": "Some marker",
         "Lng": "68.7558",
         "Lat": "38.4717",
-        "Subtitle": "ул. Зарнисор 3",
+        "Subtitle": "Subtitle",
         "Info1": "446308888",
         "Info2": "08:00 - 17:00",
         "Type": "2",
         "Type_Text": "Type 2"
       },
       {
-        "Title": "ЦБО в р-н. Тоджикобод",
+        "Title": "Sex shop",
         "Lng": "70.8482",
-        "Lat": "39.1169","
-        "Subtitle": "ул. И Сомони 10",
-        "Info1": "446308888",
+        "Lat": "39.1169",
+        "Subtitle": "make yourself happy",
+        "Info1": "Info1",
         "Info2": "08:00 - 17:00",
         "Type": "3",
         "Type_Text": "Type 3"
       },
       {
-        "Title": "АТМ-Банкомат",
+        "Title": "markit",
         "Lng": "68.7115413",
         "Lat": "38.5614373",
-        "Subtitle": "ул. Х. Шерози 28/30 ",
-        "Info1": "446308888",
+        "Subtitle": "Subtitle",
+        "Info1": "Info1",
         "Info2": "08:00 - 17:00",
         "Type": "4",
         "Type_Text": "Type 4"

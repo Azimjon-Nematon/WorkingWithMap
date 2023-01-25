@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="19162" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="19162" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="yVL-XF-A2Z">
     <device id="retina6_1" orientation="portrait" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
@@ -9,7 +9,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!-- Где оплатить?-->
+        <!--Working with map-->
         <scene sceneID="6Pl-Py-v6k">
             <objects>
                 <viewController id="nLa-iJ-DT2" customClass="MapViewController" customModule="WorkingWithMap" customModuleProvider="target" sceneMemberID="viewController">
@@ -145,7 +145,7 @@
                             <constraint firstItem="Pke-YL-nf5" firstAttribute="bottom" secondItem="paR-l5-mRy" secondAttribute="bottom" id="ymI-HR-OS0"/>
                         </constraints>
                     </view>
-                    <navigationItem key="navigationItem" title=" Где оплатить?" id="5cR-VK-vfD"/>
+                    <navigationItem key="navigationItem" title="Working with map" id="5cR-VK-vfD"/>
                     <connections>
                         <outlet property="btnGroupStack" destination="KHk-fI-GDS" id="qV2-fe-UxK"/>
                         <outlet property="mapView" destination="Pke-YL-nf5" id="wLs-Wv-UDa"/>
